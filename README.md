@@ -17,7 +17,7 @@ Launch the application:
     npm run dev
     
 ## Link:
-    https://vue-chat-a2348.web.app/
+[Click here](https://vue-chat-a2348.web.app/)    
 
 ## Screenshots:
 [![chat](https://i.imgur.com/dNeSK1O.png)](https://vue-chat-a2348.web.app/)
