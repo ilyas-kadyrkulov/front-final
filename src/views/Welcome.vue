@@ -15,6 +15,7 @@ const showForm = ref(false);
 
 <template>
 	<div class="welcome container">
+		<img src="../../src/assets/alatoo-logo.png" alt="" srcset="">
 		<p>Welcome</p>
 		<div v-if="showForm">
 			<h2>Sign up</h2>
