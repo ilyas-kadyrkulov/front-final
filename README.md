@@ -6,7 +6,7 @@ Realchat is a realtime-database Vue chat application on Firebase.
 ## Installing and launching the application:
 Clone repository:
 
-    git clone https://github.com/ilias-kadyrkulov/front-final.git
+    git clone https://github.com/ilyas-kadyrkulov/front-final.git
 
 Install dependencies:
 
